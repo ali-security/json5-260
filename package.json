@@ -1,6 +1,6 @@
 {
   "name": "json5",
-  "version": "2.2.0",
+  "version": "2.2.0-sp1",
   "description": "JSON for humans.",
   "main": "lib/index.js",
   "module": "dist/index.mjs",
@@ -9,7 +9,8 @@
   "types": "lib/index.d.ts",
   "files": [
     "lib/",
-    "dist/"
+    "dist/",
+    "CHANGELOG.md"
   ],
   "engines": {
     "node": ">=6"
